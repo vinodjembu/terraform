@@ -1,0 +1,4 @@
+#Ignore below list of file extension
+cred.tf
+*.tf.state
+*.tf.state.backup
