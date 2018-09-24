@@ -1,6 +1,3 @@
-												TERRAFORM - LAUNCH AWS INSTANCE
-												-------------------------------
-
 Terraform -  https://www.terraform.io/
 
 Pre-Requesties
