@@ -1,8 +1,9 @@
-TERRAFORM - LAUNCH AWS INSTANCES 
+												TERRAFORM - LAUNCH AWS INSTANCE
+												-------------------------------
 
 Terraform -  https://www.terraform.io/
 
-Pre-Requestie
+Pre-Requesties
 -------------
 
 1. AWS Console access
