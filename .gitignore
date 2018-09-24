@@ -1,2 +1,3 @@
 #Ignore below list of file extension like terraform.tfstate (generated)
 terraform*
+.DS_Store
